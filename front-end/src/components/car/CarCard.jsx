@@ -2,7 +2,6 @@ import React, {Fragment} from 'react';
 
 import {Link, withRouter} from "react-router-dom";
 import {UserConsumer} from "../../context/UserContext";
-import util from "../../util/util";
 
 
 const CarCard = (props) => {
